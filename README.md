@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning SkyPro
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Knyazev-Timur)](https://github.com/ryo-ma/github-profile-trophy)
 --->
 
 <h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" align="center">Hi, I'm <a href="https://daniilshat.ru/" target="_blank">Knyazev-Timur</a> </align></h1>
@@ -16,6 +18,7 @@
 - SQlite3 и PostgreSQL.
 - Docker
 - Тестирование, pytest.
+
 
 
 <p><img src="https://camo.githubusercontent.com/e520ccc83c52f1bd6f015447a4d07c53602752a1bb2bf9e9e98c52ba4bd85a92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d77686974653f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565" alt="Python">
